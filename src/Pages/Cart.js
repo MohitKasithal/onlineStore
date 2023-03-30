@@ -11,7 +11,7 @@ import {
   removeFromCart,
 } from "../Redux/cartSlice";
 import { useNavigate } from "react-router-dom";
-import { Button, Card, CardMedia, Container, Typography } from "@mui/material";
+import { Button, Container, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 
 const Cart = () => {
