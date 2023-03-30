@@ -1,0 +1,41 @@
+.header {
+  background: #232f3e;
+  color: #fff;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.image {
+  width: 100px;
+}
+.inputContainer {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-right: 20px;
+}
+.inputContainer input {
+  padding: 5px;
+  outline: none;
+  font-size: 14px;
+  border: 0;
+  background: #fff;
+  padding-left: 15px;
+}
+
+.searchIcon {
+  position: absolute;
+  top: 2px;
+  right: 10px;
+  color: black;
+  cursor: pointer;
+}
+.Links {
+  margin-right: 10px;
+  gap: 20px;
+  display: flex;
+}
+.Links a {
+  margin-right: 10px;
+}

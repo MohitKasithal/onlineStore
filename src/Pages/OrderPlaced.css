@@ -1,0 +1,16 @@
+.orders {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px;
+}
+.orderbtn {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  gap: 8px;
+}
+.orderDescription {
+  padding: 25px;
+  text-align: left;
+}
